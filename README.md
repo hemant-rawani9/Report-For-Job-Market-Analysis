@@ -1,5 +1,5 @@
 # Report-For-Job-Market-Analysis
-Sample of Analytics from dataset Imported From Different Different Platform Like Kaggle, Google Colab.
+Sample of Analytics from dataset Imported From Different Different Platform Like Kaggle, Google Colab & The report uses research from the World Economic Forum and NITI Aayog among other sources..
 -------------------------------------------------------------------------------------------------------
 # 📊 Google Colab Notebook to Professional PDF Exporter
 
